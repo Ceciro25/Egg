@@ -1,0 +1,3 @@
+Este es un ejemplo de utilización de GIT Local
+Se realiza un cambio del txt para subir al repositor remoto. 
+
